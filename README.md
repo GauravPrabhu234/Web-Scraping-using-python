@@ -11,8 +11,11 @@ requests: to send HTTP requests and retrieve the web pages.
 BeautifulSoup: to parse and extract information from the HTML content.
 pandas: to organize and save the extracted data in a tabular format.
 
+
 If you don't have beautifulSoup library then install it in command prompt using the command:- pip install beautifulsoup4
+
 If you don't have requests library then install it in command prompt using the command :- pip install requests
+
 If you don't have pandas  library then install it in command prompt using the command :- pip install pandas
 
 # Steps for performing this project 
